@@ -1,0 +1,43 @@
+2025-07-22 10:30:55,031:INFO:*****Test_01_Admin_Login*****
+2025-07-22 10:30:55,031:INFO:*****Verification of admin login page title*****
+2025-07-22 10:30:55,575:INFO:*****title verified*****
+2025-07-22 10:30:56,886:INFO:*****test_valid_admin_login started*****
+2025-07-22 10:30:58,030:INFO:*****admin logged in*****
+2025-07-22 10:31:00,260:INFO:*****invalid admin*****
+2025-07-22 10:52:41,425:INFO:*****Test_01_Admin_Login*****
+2025-07-22 10:52:41,426:INFO:*****Verification of admin login page title*****
+2025-07-22 10:52:42,127:INFO:*****title verified*****
+2025-07-22 10:52:43,488:INFO:*****test_valid_admin_login started*****
+2025-07-22 10:52:44,556:INFO:*****admin logged in*****
+2025-07-22 11:00:06,923:INFO:*****Test_01_Admin_Login*****
+2025-07-22 11:00:06,924:INFO:*****Verification of admin login page title*****
+2025-07-22 11:00:07,519:INFO:*****title verified*****
+2025-07-22 11:00:09,020:INFO:*****test_valid_admin_login started*****
+2025-07-22 11:00:10,122:INFO:*****admin logged in*****
+2025-07-22 11:00:12,306:INFO:*****invalid admin*****
+2025-07-22 11:16:23,759:INFO:*****Test_01_Admin_Login*****
+2025-07-22 11:16:23,760:INFO:*****Verification of admin login page title*****
+2025-07-22 11:16:24,342:INFO:*****title verified*****
+2025-07-22 11:16:26,084:INFO:*****test_valid_admin_login started*****
+2025-07-22 11:16:27,190:INFO:*****admin logged in*****
+2025-07-22 11:16:29,464:INFO:*****invalid admin*****
+2025-07-22 12:41:49,054:INFO:*****test_valid_admin_login_data_driven started*****
+2025-07-22 12:41:54,755:INFO:test data is failed
+2025-07-22 12:44:51,532:INFO:*****test_valid_admin_login_data_driven started*****
+2025-07-22 12:44:57,525:INFO:test data is failed
+2025-07-22 12:54:24,346:INFO:*****test_valid_admin_login_data_driven started*****
+2025-07-22 12:54:30,387:INFO:test data is failed
+2025-07-22 19:30:10,930:INFO:*****test_valid_admin_login started*****
+2025-07-22 19:30:12,087:INFO:*****admin logged in*****
+2025-07-22 19:32:04,740:INFO:*****Test_01_Admin_Login*****
+2025-07-22 19:32:04,740:INFO:*****Verification of admin login page title*****
+2025-07-22 19:32:05,361:INFO:*****title verified*****
+2025-07-22 19:32:06,587:INFO:*****test_valid_admin_login started*****
+2025-07-22 19:32:08,435:INFO:*****admin logged in*****
+2025-07-22 19:32:10,564:INFO:*****invalid admin*****
+2025-07-22 19:33:38,864:INFO:*****Test_01_Admin_Login*****
+2025-07-22 19:33:38,864:INFO:*****Verification of admin login page title*****
+2025-07-22 19:33:39,386:INFO:*****title verified*****
+2025-07-22 19:33:40,662:INFO:*****test_valid_admin_login started*****
+2025-07-22 19:33:41,795:INFO:*****admin logged in*****
+2025-07-22 19:33:44,005:INFO:*****invalid admin*****
