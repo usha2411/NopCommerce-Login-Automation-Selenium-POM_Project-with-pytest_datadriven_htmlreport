@@ -1,0 +1,3 @@
+{
+  "test_cases/test_adim_login_datadriven.py::Test_02_Admin_Login_data_driven::test_valid_admin_login_data_driven": true
+}
