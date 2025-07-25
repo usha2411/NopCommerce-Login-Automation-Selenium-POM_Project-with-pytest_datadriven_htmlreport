@@ -1,13 +1,15 @@
-This project automates the login functionality of the NopCommerce demo site using:
+This project automates the login functionality of the NopCommerce demo site using following tools and technologies:
 
-🐍 Python
+Language: Python
 
-🧪 PyTest (Test Framework)
+Automation Library: Selenium WebDriver
 
-🕸️ Selenium WebDriver (Browser Automation)
+Testing Framework: Pytest
 
-📄 Page Object Model (POM) Design Pattern
+Design Pattern: Page Object Model (POM)
 
-📸 Screenshot capture on failure
+Data Source: Excel (for Data Driven Testing using openpyxl)
 
-✅ Html test reports
+Reports: HTML reports using pytest-html
+
+Browser: Chrome (configurable)
