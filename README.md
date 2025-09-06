@@ -18,15 +18,20 @@ Browser: Chrome (configurable)
 NopCommerce_Login_Automation/
 │── config/
 │   └── config.ini                # Application URL & credentials
+
 │── testData/
 │   └── login_data.xlsx           # Test data for login (valid & invalid users)
+
 │── pages/
 │   └── base_page.py              # Common reusable methods
 │   └── login_page.py             # Locators & actions for login page
+
 │── tests/
 │   └── test_login.py             # Test cases for login
+
 │── reports/
 │   └── allure-report/            # Test execution reports
+
 │── utilities/
 │   └── read_excel.py             # Utility for reading Excel test data
 │── requirements.txt              # Required dependencies 
