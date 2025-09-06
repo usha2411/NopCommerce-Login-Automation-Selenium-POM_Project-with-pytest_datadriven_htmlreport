@@ -29,6 +29,6 @@ NopCommerce_Login_Automation/
 │   └── allure-report/            # Test execution reports
 │── utilities/
 │   └── read_excel.py             # Utility for reading Excel test data
-│── requirements.txt              # Required dependencies
+│── requirements.txt              # Required dependencies 
 │── pytest.ini                    # PyTest configurations
 │── README.md                     # Project documentation
